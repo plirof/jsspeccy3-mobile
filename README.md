@@ -2,6 +2,8 @@
 
 A ZX Spectrum emulator for mobile browsers with per-game customizable soft keys.
 
+*jonNOTE: Replace "ReplaceAll" with "Replace" to compile without errors. JSSpeccy will hav
+
 ## Quick example
 
 As a example, I am showing a simple snake game made by me, but ANY (*) game can be loaded.
